@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to the my website</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Welcome to the my website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;&#xA;&lt;p&gt;I just graduated from the master&amp;rsquo;s program in robotics at the University of Pennsylvania. My currently involved research focuses on semantic mapping, localization, and robot autonomy. I am also actively researching the area of multi-robot systems like multi-robot SLAM and multi-robot path planning.&lt;/p&gt;&#xA;&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;B.S. in Mechanical Engineering, University of Pittsburgh, 2021&lt;/li&gt;&#xA;&lt;li&gt;M.S. in Robotics, University of Pennsylvania, 2023&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Programming: Python, C++, C&lt;/li&gt;&#xA;&lt;li&gt;Tools/Frameworks: GitHub, Git, ROS, PyTorch, CMake, Linux, OpenCV&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;lidar-only-autonomous-flight-for-quadrotor&#34;&gt;LiDAR-only Autonomous flight for quadrotor&lt;/h3&gt;&#xA;&lt;p&gt;Developed LiDAR-only autonomous flight feature for quadrotor autonomy system, enhancing capabilities beyond&#xA;stereo cameras. Integrated lidar-inertial odometry for operation in diverse lighting conditions, conducted thorough&#xA;parameter tuning, and executed rigorous flight tests to ensure stable and reliable performance.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/KumarRobotics/kr_autonomous_flight&#34;&gt;Contribution to Open-source code, check branch feature/integrate_lidar_no_3d_planner&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;autonomy-stack-for-small-scale-quadrotor&#34;&gt;Autonomy Stack for small-scale quadrotor&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed the dynamic model of a quadrotor and implemented a PD controller and an A*-based path planning&#xA;algorithm in Python to successfully navigate the quadrotor and avoid obstacles in complex indoor environments.&lt;/li&gt;&#xA;&lt;li&gt;Implemented a min-snap trajectory optimization algorithm in Python to ensure smooth and rapid motion for&#xA;the robot.&lt;/li&gt;&#xA;&lt;li&gt;Built and tested a filter-based visual-inertial odometry (VIO) system that integrates information from an IMU and&#xA;a stereo camera, and demonstrated its performance in simulation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/RollingOat/control-path-planning-trajectory-optimization-of-a-quadrotor&#34;&gt;Github Code&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/</guid>
+      <description>&lt;h1 id=&#34;publication--preprints&#34;&gt;Publication &amp;amp; Preprints&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;slideslam-sparse-lightweight-decentralized-metric-semantic-slam-for-multi-robot-navigation&#34;&gt;SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation&lt;/h3&gt;&#xA;&lt;p&gt;Xu Liu*, &lt;strong&gt;Jiuzhou Lei&lt;/strong&gt;*, Ankit Prabhu*, Yuezhan Tao, Igor Spasojevic, Pratik Chaudhari, Nikolay Atanasov, Vijay Kumar (* the authors contributed equally)&lt;/p&gt;&#xA;&lt;p&gt;Submitted to Transaction on Robotics, Nov 2024&lt;/p&gt;&#xA;&lt;p&gt;Arxiv: &lt;a href=&#34;https://arxiv.org/abs/2406.17249&#34;&gt;https://arxiv.org/abs/2406.17249&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://xurobotics.github.io/slideslam/&#34;&gt;Project Website&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;demo&#34; src=&#34;http://localhost:1313/new-compressed-7-robot.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;robots&#34; src=&#34;http://localhost:1313/title-figure.png&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;4d-metric-semantic-mapping-for-persistent-orchard-monitoring-method-and-dataset&#34;&gt;4D Metric-Semantic Mapping for Persistent Orchard Monitoring: Method and Dataset&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Jiuzhou Lei&lt;/strong&gt;, Ankit Prabhu, Xu Liu, Fernando Cladera, Mehrad Mortazavi, Reza Ehsani, Pratik Chaudhari, Vijay Kumar&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
