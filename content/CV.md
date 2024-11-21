@@ -1,8 +1,12 @@
 ## About me
 
-Hi, I am a research assistant in Kumar robotics lab at University of Pennsylvania. My reseach interest lies in autonomy for intelligent robotics systems, in which I focus on 3D perception and multi-robot system. This includes research topics on semantic mapping, scene understanding, and active perception. I am recently researching on visual language mapping. 
+<div style="display: flex; align-items: center;">
+  <img src="/IMG_0469.jpg" alt="Photo" style="width: 150px; margin-right: 15px;">
+  <p>
+    Hi, I am a research assistant in Kumar Robotics Lab at the University of Pennsylvania. My research interest lies in autonomy for intelligent robotics systems, focusing on 3D perception and navigation. This includes research topics on semantic mapping, scene understanding, and active perception. I am also doing research on multi-robot systems. Recently, I have been researching on visual language mapping and learned scene representation.
+  </p>
+</div>
 
-![photo](/Lei_Jiuzhou_.jpg)
 
  [Google Schoolar](https://scholar.google.com/citations?hl=en&user=VBNFtRkAAAAJ) / [Github](https://github.com/RollingOat) / [jiuzl@seas.upenn.edu](jiuzl@seas.upenn.edu)
 
@@ -17,14 +21,14 @@ Hi, I am a research assistant in Kumar robotics lab at University of Pennsylvani
 * Programming: Python, C++, C
 * Tools/Frameworks: GitHub, Git, ROS, ROS2, PyTorch, CMake, Linux, Docker
 
-### Publication
+### Publication & Preprints
 
 * **Jiuzhou Lei**, Ankit Prabhu, Xu Liu, Fernando Cladera, Mehrad Mortazavi, Reza Ehsani, Pratik Chaudhari, Vijay
 Kumar, 4D Metric-Semantic Mapping for Persistent Orchard Monitoring: Method and Dataset. Under Review
 ICRA 2025, https://arxiv.org/abs/2409.19786
 
 * Xu Liu*, **Jiuzhou Lei***, Ankit Prabhu*, Yuezhan Tao, Igor Spasojevic, Pratik Chaudhari, Nikolay Atanasov,
-Vijay Kumar, SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation, Submitted to TRO, 2025, 
+Vijay Kumar, SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation, Submitted to TRO, Nov 2024, 
 https://arxiv.org/abs/2406.17249
 
 * Ankit Prabhu*, Xu Liu*, Igor Spasojevic, Yuwei Wu, Yifei Shao, Dexter Ong, **Jiuzhou Lei**, Corey Green, Pratik

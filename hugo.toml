@@ -32,6 +32,11 @@ theme        = "hello-friend-ng"
     tag      = "tags"
     series   = "series"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [languages]
   [languages.en]
     title = "Welcome to the my website"

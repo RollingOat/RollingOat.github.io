@@ -26,8 +26,6 @@ a stereo camera, and demonstrated its performance in simulation
 
 ![traj](/meam620-min.png)
 
-<img src='content/auto_flight_1.png' width=200 height=150> <img src='content//at_flight_2.png' width=200 height=200>
-
 ---
 
 ### Robot arm Manipulator control
