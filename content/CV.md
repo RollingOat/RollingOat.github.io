@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center;">
   <img src="/IMG_0469.jpg" alt="Photo" style="width: 150px; margin-right: 15px;">
   <p>
-    Hi, I am a research assistant in Kumar Robotics Lab at the University of Pennsylvania. My research interest lies in autonomy for intelligent robotics systems, focusing on 3D perception and navigation. This includes research topics on semantic mapping, scene understanding, and active perception. I am also doing research on multi-robot systems. Recently, I have been researching on visual language mapping and learned scene representation.
+    Hi, I am a research assistant in Kumar Robotics Lab at the University of Pennsylvania. My research interest lies in autonomy for intelligent robotics systems, focusing on semantic mapping and localization, and autonomous navigation. I am also doing research on multi-robot systems. Recently, I have been learning and reading papers on visual language mapping and learned scene representation.
   </p>
 </div>
 
@@ -19,7 +19,7 @@
 ### Skills
 
 * Programming: Python, C++, C
-* Tools/Frameworks: GitHub, Git, ROS, ROS2, PyTorch, CMake, Linux, Docker
+* Tools/Frameworks: GitHub, Git, ROS, PyTorch, CMake, Linux, Docker
 
 ### Publication & Preprints
 

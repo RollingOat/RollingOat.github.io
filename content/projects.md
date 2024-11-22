@@ -3,7 +3,7 @@
 
 ### LiDAR-only Autonomous flight for quadrotor
 
-Developed LiDAR-only autonomous flight feature for quadrotor autonomy system, enhancing capabilities beyond
+Contributed to the development of LiDAR-only autonomous flight feature for quadrotor autonomy system, enhancing capabilities beyond
 stereo cameras. Integrated lidar-inertial odometry for operation in diverse lighting conditions, conducted thorough
 parameter tuning, and executed rigorous flight tests to ensure stable and reliable performance.
 
