@@ -28,7 +28,7 @@ Kumar, 4D Metric-Semantic Mapping for Persistent Orchard Monitoring: Method and 
 ICRA 2025, https://arxiv.org/abs/2409.19786
 
 * Xu Liu*, **Jiuzhou Lei***, Ankit Prabhu*, Yuezhan Tao, Igor Spasojevic, Pratik Chaudhari, Nikolay Atanasov,
-Vijay Kumar, SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation, to be submitted to TRO, Nov 2024, 
+Vijay Kumar, SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation, Submitted to TRO, Nov 2024, 
 https://arxiv.org/abs/2406.17249
 
 * Ankit Prabhu*, Xu Liu*, Igor Spasojevic, Yuwei Wu, Yifei Shao, Dexter Ong, **Jiuzhou Lei**, Corey Green, Pratik

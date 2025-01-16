@@ -5,7 +5,7 @@
 
 Xu Liu*, **Jiuzhou Lei***, Ankit Prabhu*, Yuezhan Tao, Igor Spasojevic, Pratik Chaudhari, Nikolay Atanasov, Vijay Kumar (* the authors contributed equally)
 
-To be submitted to Transaction on Robotics, Dec 2024
+Submitted to Transaction on Robotics, Dec 2024
 
 Arxiv: https://arxiv.org/abs/2406.17249
 
