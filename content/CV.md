@@ -24,8 +24,7 @@
 ### Publication & Preprints
 
 * **Jiuzhou Lei**, Ankit Prabhu, Xu Liu, Fernando Cladera, Mehrad Mortazavi, Reza Ehsani, Pratik Chaudhari, Vijay
-Kumar, 4D Metric-Semantic Mapping for Persistent Orchard Monitoring: Method and Dataset. Under Review
-ICRA 2025, https://arxiv.org/abs/2409.19786
+Kumar, 4D Metric-Semantic Mapping for Persistent Orchard Monitoring: Method and Dataset. Accepted by RA-L, https://arxiv.org/abs/2409.19786
 
 * Xu Liu*, **Jiuzhou Lei***, Ankit Prabhu*, Yuezhan Tao, Igor Spasojevic, Pratik Chaudhari, Nikolay Atanasov,
 Vijay Kumar, SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation, Submitted to TRO, Nov 2024, 
