@@ -1,3 +1,5 @@
+# First-authored work first, then co-authored work.
+# Within each group: peer-reviewed venues before preprints, newest first.
 main:
 
   - title: "SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation"
@@ -14,6 +16,13 @@ main:
     conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, vol. 10, no. 8, pp. 8610-8617, 2025.
     pdf: https://arxiv.org/abs/2409.19786
     code: https://github.com/RollingOat/4d-orchard-mapping-dataset
+
+  - title: "Learning When to See and When to Feel: Adaptive Vision-Torque Fusion for Contact-Aware Manipulation"
+    authors: <strong>Jiuzhou Lei</strong>, Chang Liu, Yu She, Xiao Liang, Minghui Zheng
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2604.01414, 2026.
+    pdf: https://arxiv.org/abs/2604.01414
+    code: https://github.com/RollingOat/vision-torque-fusion-for-contact-aware-manipulation
 
   - title: "UAVs for Forestry: Metric-Semantic Mapping and Diameter Estimation with Autonomous Aerial Robots"
     authors: Ankit Prabhu, Xu Liu, Igor Spasojevic, Yuwei Wu, Yifei Shao, Dexter Ong, <strong>Jiuzhou Lei</strong>, Patrick Corey Green, Pratik Chaudhari, Vijay Kumar
@@ -38,13 +47,6 @@ main:
     conference_short: arXiv
     conference: arXiv preprint arXiv:2606.13877, 2026.
     pdf: https://arxiv.org/abs/2606.13877
-
-  - title: "Learning When to See and When to Feel: Adaptive Vision-Torque Fusion for Contact-Aware Manipulation"
-    authors: <strong>Jiuzhou Lei</strong>, Chang Liu, Yu She, Xiao Liang, Minghui Zheng
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2604.01414, 2026.
-    pdf: https://arxiv.org/abs/2604.01414
-    code: https://github.com/RollingOat/vision-torque-fusion-for-contact-aware-manipulation
 
   - title: "Learning Actionable Manipulation Recovery via Counterfactual Failure Synthesis"
     authors: Dayou Li, <strong>Jiuzhou Lei</strong>, Hao Wang, Lulin Liu, Yunhao Yang, Zihan Wang, Bangya Liu, Minghui Zheng, Zhiwen Fan
