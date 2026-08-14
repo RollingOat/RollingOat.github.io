@@ -58,5 +58,63 @@ CV icon appear in the header.
 
 ## Deploying
 
-Push to the `main` branch of the `RollingOat.github.io` repo. GitHub Pages
-builds the site itself — the local Ruby setup is only for previewing.
+The site is hosted on GitHub Pages at <https://rollingoat.github.io>, built from
+the `pw2026` branch of the [`RollingOat.github.io`](https://github.com/RollingOat/RollingOat.github.io)
+repo. GitHub runs Jekyll itself on every push — the local Ruby setup is only for
+previewing, and nothing needs to be built or committed by hand.
+
+### Current setup
+
+| Setting | Value |
+| --- | --- |
+| Repo | `RollingOat/RollingOat.github.io` |
+| Branch Pages builds from | `pw2026` |
+| Remote protocol | SSH (`git@github.com:...`), authenticated with `~/.ssh/id_ed25519` |
+| Published URL | <https://rollingoat.github.io> |
+
+The repo must be named exactly `<username>.github.io` to get the bare
+`rollingoat.github.io` URL. Any other name publishes to
+`rollingoat.github.io/<repo-name>/` instead.
+
+### Enabling Pages (one time)
+
+1. Go to the repo → **Settings** → **Pages**.
+2. Under **Build and deployment**, set **Source** to `Deploy from a branch`.
+3. Set **Branch** to **`pw2026`** and the folder to **`/ (root)`**, then **Save**.
+4. Wait a minute or two, then load <https://rollingoat.github.io>.
+
+Step 3 is the easy one to get wrong: the dropdown defaults to `main`, and this
+repo has a `main` branch holding unrelated content. If Pages is pointed at
+`main` the published site will not be this site.
+
+### Publishing a change
+
+```bash
+./serve.sh                        # check it at http://localhost:4001 first
+git add -A
+git commit -m "Update publications"
+git push
+```
+
+`git push` alone is enough — `pw2026` already tracks `origin/pw2026`. The live
+site updates roughly a minute after the push.
+
+### If the deploy fails
+
+- The repo's **Actions** tab shows a `pages build and deployment` run for each
+  push; open the failed run to see the Jekyll error.
+- Build errors are almost always malformed YAML in `_data/publications.yml` —
+  an unquoted title containing a colon is the usual culprit. Run
+  `./serve.sh` locally first and the same error will surface there.
+- GitHub Pages runs Jekyll 3.10, which the `Gemfile` here pins to, so a build
+  that succeeds locally will succeed remotely.
+
+### Switching the branch later
+
+To publish from `main` instead:
+
+```bash
+git push origin pw2026:main
+```
+
+Then change **Settings → Pages → Branch** to `main`.
