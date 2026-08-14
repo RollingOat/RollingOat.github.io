@@ -1,26 +1,25 @@
-# Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+# Basic Information
+title: Jiuzhou Lei
+position: Ph.D. Student            # TODO: confirm your current title
+affiliation: Your University       # TODO: fill in your current department / university
+email: your.email (at) example.edu # TODO: fill in the email you want shown publicly
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://YOUR-USERNAME.github.io/
+keywords: Jiuzhou Lei, robotics, SLAM, metric-semantic mapping, robot learning, contact-rich manipulation
+description: Jiuzhou Lei is a robotics researcher working on metric-semantic mapping, multi-robot SLAM, and contact-rich robot manipulation.
+canonical: https://rollingoat.github.io/
 
-# Links 
+# Links
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+google_scholar: https://scholar.google.com/citations?user=X52xke0AAAAJ&hl=en
+github_link: https://github.com/RollingOat
+linkedin: https://www.linkedin.com/in/jiuzhou-lei/
+# cv_link: assets/files/curriculum_vitae.pdf   # uncomment once you drop your own CV in assets/files/
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+# Images (e.g., your profile picture and your website's favicon)
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
+avatar: ./assets/img/avatar.png    # TODO: replace with your own photo
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
@@ -36,18 +35,11 @@ auto_dark_mode: true
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
 
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
-
 # The following files will be removed from the generated website.
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/

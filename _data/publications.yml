@@ -1,22 +1,53 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation"
+    authors: Xu Liu*, <strong>Jiuzhou Lei*</strong>, Ankit Prabhu*, Yuezhan Tao, Igor Spasojevic, Pratik Chaudhari, Nikolay Atanasov, Vijay Kumar (*Equal contribution)
+    conference_short: T-RO
+    conference: IEEE Transactions on Robotics <strong>(T-RO)</strong>, vol. 41, pp. 6529-6548, 2025.
+    pdf: https://arxiv.org/abs/2406.17249
+    code: https://github.com/KumarRobotics/SLIDE_SLAM
+    page: https://xurobotics.github.io/slideslam/
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Spatio-Temporal Metric-Semantic Mapping for Persistent Orchard Monitoring: Method and Dataset"
+    authors: <strong>Jiuzhou Lei</strong>, Ankit Prabhu, Xu Liu, Fernando Cladera, Mehrad Mortazavi, Reza Ehsani, Pratik Chaudhari, Vijay Kumar
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, vol. 10, no. 8, pp. 8610-8617, 2025.
+    pdf: https://arxiv.org/abs/2409.19786
+    code: https://github.com/RollingOat/4d-orchard-mapping-dataset
+
+  - title: "UAVs for Forestry: Metric-Semantic Mapping and Diameter Estimation with Autonomous Aerial Robots"
+    authors: Ankit Prabhu, Xu Liu, Igor Spasojevic, Yuwei Wu, Yifei Shao, Dexter Ong, <strong>Jiuzhou Lei</strong>, Patrick Corey Green, Pratik Chaudhari, Vijay Kumar
+    conference_short: MSSP
+    conference: Mechanical Systems and Signal Processing <strong>(MSSP)</strong>, vol. 208, p. 111050, 2024.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0888327023009585
+
+  - title: "Imagining the Sense of Touch: Touch-Informed Manipulation via Imagined Tactile Representations"
+    authors: Zhiyuan Zhang, Adeesh Desai, Jyun-Chi Hu, Yosuke Saka, Quan Khanh Luu, <strong>Jiuzhou Lei</strong>, Davood Soleymanzadeh, Bihao Zhang, Minghui Zheng, Yu She
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2607.01684, 2026.
+    pdf: https://arxiv.org/abs/2607.01684
+
+  - title: "Behavior Uncloning: Distilling Mode Redirection into Policy Weights without Inference-Time Steering"
+    authors: Hao Wang, <strong>Jiuzhou Lei</strong>, Dayou Li, Bangya Liu, Minghui Zheng, Manling Li, Ruohan Zhang, Zhiwen Fan
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2606.29201, 2026.
+    pdf: https://arxiv.org/abs/2606.29201
+
+  - title: "ContactWorld: What Matters in Vision-Tactile World Models for Contact-Rich Manipulation"
+    authors: Zhiyuan Zhang, Pokuang Zhou, Kaidi Zhang, Adeesh Desai, Temitope Amosa, Davood Soleymanzadeh, <strong>Jiuzhou Lei</strong>, Minghui Zheng, Yu She
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2606.13877, 2026.
+    pdf: https://arxiv.org/abs/2606.13877
+
+  - title: "Learning When to See and When to Feel: Adaptive Vision-Torque Fusion for Contact-Aware Manipulation"
+    authors: <strong>Jiuzhou Lei</strong>, Chang Liu, Yu She, Xiao Liang, Minghui Zheng
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2604.01414, 2026.
+    pdf: https://arxiv.org/abs/2604.01414
+    code: https://github.com/RollingOat/vision-torque-fusion-for-contact-aware-manipulation
+
+  - title: "Learning Actionable Manipulation Recovery via Counterfactual Failure Synthesis"
+    authors: Dayou Li, <strong>Jiuzhou Lei</strong>, Hao Wang, Lulin Liu, Yunhao Yang, Zihan Wang, Bangya Liu, Minghui Zheng, Zhiwen Fan
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2603.13528, 2026.
+    pdf: https://arxiv.org/abs/2603.13528
