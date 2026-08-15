@@ -48,17 +48,17 @@ main:
     image: /assets/img/manipulation-recovery.png
     pdf: https://arxiv.org/abs/2603.13528
 
-  - title: "Imagining the Sense of Touch: Touch-Informed Manipulation via Imagined Tactile Representations"
-    authors: Zhiyuan Zhang, Adeesh Desai, Jyun-Chi Hu, Yosuke Saka, Quan Khanh Luu, <strong>Jiuzhou Lei</strong>, Davood Soleymanzadeh, Bihao Zhang, Minghui Zheng, Yu She
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2607.01684, 2026.
-    image: /assets/img/imagined-tactile.png
-    pdf: https://arxiv.org/abs/2607.01684
+  # - title: "Imagining the Sense of Touch: Touch-Informed Manipulation via Imagined Tactile Representations"
+  #   authors: Zhiyuan Zhang, Adeesh Desai, Jyun-Chi Hu, Yosuke Saka, Quan Khanh Luu, <strong>Jiuzhou Lei</strong>, Davood Soleymanzadeh, Bihao Zhang, Minghui Zheng, Yu She
+  #   conference_short: arXiv
+  #   conference: arXiv preprint arXiv:2607.01684, 2026.
+  #   image: /assets/img/imagined-tactile.png
+  #   pdf: https://arxiv.org/abs/2607.01684
 
-  - title: "ContactWorld: What Matters in Vision-Tactile World Models for Contact-Rich Manipulation"
-    authors: Zhiyuan Zhang, Pokuang Zhou, Kaidi Zhang, Adeesh Desai, Temitope Amosa, Davood Soleymanzadeh, <strong>Jiuzhou Lei</strong>, Minghui Zheng, Yu She
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2606.13877, 2026.
-    pdf: https://arxiv.org/abs/2606.13877
+  # - title: "ContactWorld: What Matters in Vision-Tactile World Models for Contact-Rich Manipulation"
+  #   authors: Zhiyuan Zhang, Pokuang Zhou, Kaidi Zhang, Adeesh Desai, Temitope Amosa, Davood Soleymanzadeh, <strong>Jiuzhou Lei</strong>, Minghui Zheng, Yu She
+  #   conference_short: arXiv
+  #   conference: arXiv preprint arXiv:2606.13877, 2026.
+  #   pdf: https://arxiv.org/abs/2606.13877
 
 
