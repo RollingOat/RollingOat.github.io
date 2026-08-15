@@ -18,6 +18,7 @@ main:
     image: /assets/img/orchard-mapping.png
     pdf: https://arxiv.org/abs/2409.19786
     code: https://github.com/RollingOat/4d-orchard-mapping-dataset
+    page: https://rollingoat.github.io/4d_orchard_mapping_website/overview/
 
   - title: "Learning When to See and When to Feel: Adaptive Vision-Torque Fusion for Contact-Aware Manipulation"
     authors: <strong>Jiuzhou Lei</strong>, Chang Liu, Yu She, Xiao Liang, Minghui Zheng
@@ -33,6 +34,7 @@ main:
     conference: arXiv preprint arXiv:2606.29201, 2026.
     image: /assets/img/behavior-uncloning.png
     pdf: https://arxiv.org/abs/2606.29201
+    page: https://behavior-uncloning.github.io/
 
   - title: "UAVs for Forestry: Metric-Semantic Mapping and Diameter Estimation with Autonomous Aerial Robots"
     authors: Ankit Prabhu, Xu Liu, Igor Spasojevic, Yuwei Wu, Yifei Shao, Dexter Ong, <strong>Jiuzhou Lei</strong>, Patrick Corey Green, Pratik Chaudhari, Vijay Kumar
@@ -47,6 +49,7 @@ main:
     conference: arXiv preprint arXiv:2603.13528, 2026.
     image: /assets/img/manipulation-recovery.png
     pdf: https://arxiv.org/abs/2603.13528
+    page: https://dream2fix.github.io/
 
   # - title: "Imagining the Sense of Touch: Touch-Informed Manipulation via Imagined Tactile Representations"
   #   authors: Zhiyuan Zhang, Adeesh Desai, Jyun-Chi Hu, Yosuke Saka, Quan Khanh Luu, <strong>Jiuzhou Lei</strong>, Davood Soleymanzadeh, Bihao Zhang, Minghui Zheng, Yu She
