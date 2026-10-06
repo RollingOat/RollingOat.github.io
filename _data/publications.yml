@@ -28,6 +28,15 @@ main:
     pdf: https://arxiv.org/abs/2604.01414
     code: https://github.com/RollingOat/vision-torque-fusion-for-contact-aware-manipulation
 
+  - title: "RoboIRS: Inference-Time Internal Representation Steering for Generalist Robot Policies"
+    authors: <strong>Jiuzhou Lei</strong>, Chang Liu, Dayou Li, Zhiyuan Zhang, Xiao Liang, Yu She, Zhiwen Fan, Minghui Zheng
+    conference_short: Under Review
+    conference: arXiv preprint arXiv:2610.04681, 2026.
+    image: /assets/img/roboirs.png
+    pdf: https://arxiv.org/abs/2610.04681
+    code: https://rollingoat.github.io/roboirs/
+
+
   - title: "Behavior Uncloning: Distilling Mode Redirection into Policy Weights without Inference-Time Steering"
     authors: Hao Wang, <strong>Jiuzhou Lei</strong>, Dayou Li, Bangya Liu, Minghui Zheng, Manling Li, Ruohan Zhang, Zhiwen Fan
     conference_short: arXiv

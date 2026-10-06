@@ -17,6 +17,7 @@ in the [GRASP Laboratory](https://www.grasp.upenn.edu/) on robot perception and 
 ## News
 
 <!-- TODO: add exact months, and keep the most recent items at the top. -->
+- **[2026 July]** One paper, in collaboration with our colleagues, on distillation for eliminating unsafe robot behaviors has been accepted to CoRL 2026. See you in Austin!
 - **[2026 June]** Our paper on contact-rich manipulation is accepted to IROS 2026.
 - **[2025 Dec]** Our paper *SlideSLAM* is published in IEEE Transactions on Robotics (T-RO).
 - **[2025 July]** Our paper on spatio-temporal orchard mapping is published in IEEE Robotics and Automation Letters (RA-L).
