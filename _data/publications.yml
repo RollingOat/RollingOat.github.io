@@ -1,6 +1,29 @@
 # First-authored work first, then co-authored work.
 # Within each group: peer-reviewed venues before preprints, newest first.
 main:
+  - title: "Learning When to See and When to Feel: Adaptive Vision-Torque Fusion for Contact-Aware Manipulation"
+    authors: <strong>Jiuzhou Lei</strong>, Chang Liu, Yu She, Xiao Liang, Minghui Zheng
+    conference_short: IROS
+    conference: arXiv preprint arXiv:2604.01414, 2026.
+    image: /assets/img/vision-torque-fusion.png
+    pdf: https://arxiv.org/abs/2604.01414
+    code: https://github.com/RollingOat/vision-torque-fusion-for-contact-aware-manipulation
+
+  - title: "RoboIRS: Inference-Time Internal Representation Steering for Generalist Robot Policies"
+    authors: <strong>Jiuzhou Lei</strong>, Chang Liu, Dayou Li, Zhiyuan Zhang, Xiao Liang, Yu She, Zhiwen Fan, Minghui Zheng
+    conference_short: Under Review
+    conference: arXiv preprint arXiv:2610.04681, 2026.
+    image: /assets/img/roboirs.png
+    pdf: https://arxiv.org/abs/2610.04681
+    code: https://rollingoat.github.io/roboirs/
+
+  - title: "Behavior Uncloning: Distilling Mode Redirection into Policy Weights without Inference-Time Steering"
+    authors: Hao Wang, <strong>Jiuzhou Lei</strong>, Dayou Li, Bangya Liu, Minghui Zheng, Manling Li, Ruohan Zhang, Zhiwen Fan
+    conference_short: CoRL
+    conference: arXiv preprint arXiv:2606.29201, 2026.
+    image: /assets/img/behavior-uncloning.png
+    pdf: https://arxiv.org/abs/2606.29201
+    page: https://behavior-uncloning.github.io/
 
   - title: "SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation"
     authors: Xu Liu*, <strong>Jiuzhou Lei*</strong>, Ankit Prabhu*, Yuezhan Tao, Igor Spasojevic, Pratik Chaudhari, Nikolay Atanasov, Vijay Kumar (*Equal contribution)
@@ -20,31 +43,6 @@ main:
     code: https://github.com/RollingOat/4d-orchard-mapping-dataset
     page: https://rollingoat.github.io/4d_orchard_mapping_website/overview/
 
-  - title: "Learning When to See and When to Feel: Adaptive Vision-Torque Fusion for Contact-Aware Manipulation"
-    authors: <strong>Jiuzhou Lei</strong>, Chang Liu, Yu She, Xiao Liang, Minghui Zheng
-    conference_short: IROS
-    conference: arXiv preprint arXiv:2604.01414, 2026.
-    image: /assets/img/vision-torque-fusion.png
-    pdf: https://arxiv.org/abs/2604.01414
-    code: https://github.com/RollingOat/vision-torque-fusion-for-contact-aware-manipulation
-
-  - title: "RoboIRS: Inference-Time Internal Representation Steering for Generalist Robot Policies"
-    authors: <strong>Jiuzhou Lei</strong>, Chang Liu, Dayou Li, Zhiyuan Zhang, Xiao Liang, Yu She, Zhiwen Fan, Minghui Zheng
-    conference_short: Under Review
-    conference: arXiv preprint arXiv:2610.04681, 2026.
-    image: /assets/img/roboirs.png
-    pdf: https://arxiv.org/abs/2610.04681
-    code: https://rollingoat.github.io/roboirs/
-
-
-  - title: "Behavior Uncloning: Distilling Mode Redirection into Policy Weights without Inference-Time Steering"
-    authors: Hao Wang, <strong>Jiuzhou Lei</strong>, Dayou Li, Bangya Liu, Minghui Zheng, Manling Li, Ruohan Zhang, Zhiwen Fan
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2606.29201, 2026.
-    image: /assets/img/behavior-uncloning.png
-    pdf: https://arxiv.org/abs/2606.29201
-    page: https://behavior-uncloning.github.io/
-
   - title: "UAVs for Forestry: Metric-Semantic Mapping and Diameter Estimation with Autonomous Aerial Robots"
     authors: Ankit Prabhu, Xu Liu, Igor Spasojevic, Yuwei Wu, Yifei Shao, Dexter Ong, <strong>Jiuzhou Lei</strong>, Patrick Corey Green, Pratik Chaudhari, Vijay Kumar
     conference_short: MSSP
@@ -60,17 +58,17 @@ main:
     pdf: https://arxiv.org/abs/2603.13528
     page: https://dream2fix.github.io/
 
-  # - title: "Imagining the Sense of Touch: Touch-Informed Manipulation via Imagined Tactile Representations"
-  #   authors: Zhiyuan Zhang, Adeesh Desai, Jyun-Chi Hu, Yosuke Saka, Quan Khanh Luu, <strong>Jiuzhou Lei</strong>, Davood Soleymanzadeh, Bihao Zhang, Minghui Zheng, Yu She
-  #   conference_short: arXiv
-  #   conference: arXiv preprint arXiv:2607.01684, 2026.
-  #   image: /assets/img/imagined-tactile.png
-  #   pdf: https://arxiv.org/abs/2607.01684
+  - title: "Imagining the Sense of Touch: Touch-Informed Manipulation via Imagined Tactile Representations"
+    authors: Zhiyuan Zhang, Adeesh Desai, Jyun-Chi Hu, Yosuke Saka, Quan Khanh Luu, <strong>Jiuzhou Lei</strong>, Davood Soleymanzadeh, Bihao Zhang, Minghui Zheng, Yu She
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2607.01684, 2026.
+    image: /assets/img/imagined-tactile.png
+    pdf: https://arxiv.org/abs/2607.01684
 
-  # - title: "ContactWorld: What Matters in Vision-Tactile World Models for Contact-Rich Manipulation"
-  #   authors: Zhiyuan Zhang, Pokuang Zhou, Kaidi Zhang, Adeesh Desai, Temitope Amosa, Davood Soleymanzadeh, <strong>Jiuzhou Lei</strong>, Minghui Zheng, Yu She
-  #   conference_short: arXiv
-  #   conference: arXiv preprint arXiv:2606.13877, 2026.
-  #   pdf: https://arxiv.org/abs/2606.13877
+  - title: "ContactWorld: What Matters in Vision-Tactile World Models for Contact-Rich Manipulation"
+    authors: Zhiyuan Zhang, Pokuang Zhou, Kaidi Zhang, Adeesh Desai, Temitope Amosa, Davood Soleymanzadeh, <strong>Jiuzhou Lei</strong>, Minghui Zheng, Yu She
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2606.13877, 2026.
+    pdf: https://arxiv.org/abs/2606.13877
 
 
