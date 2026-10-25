@@ -15,7 +15,7 @@ canonical: https://rollingoat.github.io/
 google_scholar: https://scholar.google.com/citations?user=X52xke0AAAAJ&hl=en
 github_link: https://github.com/RollingOat
 linkedin: https://www.linkedin.com/in/jiuzhou-lei/
-# cv_link: assets/files/curriculum_vitae.pdf   # uncomment once you drop your own CV in assets/files/
+cv_link: ./assets/files/Resume_Jiuzhou_Lei_intern.pdf
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
