@@ -4,7 +4,7 @@ main:
   - title: "Learning When to See and When to Feel: Adaptive Vision-Torque Fusion for Contact-Aware Manipulation"
     authors: <strong>Jiuzhou Lei</strong>, Chang Liu, Yu She, Xiao Liang, Minghui Zheng
     conference_short: IROS
-    conference: arXiv preprint arXiv:2604.01414, 2026.
+    conference: IROS, 2026.
     image: /assets/img/vision-torque-fusion.png
     pdf: https://arxiv.org/abs/2604.01414
     code: https://github.com/RollingOat/vision-torque-fusion-for-contact-aware-manipulation
@@ -20,7 +20,7 @@ main:
   - title: "Behavior Uncloning: Distilling Mode Redirection into Policy Weights without Inference-Time Steering"
     authors: Hao Wang, <strong>Jiuzhou Lei</strong>, Dayou Li, Bangya Liu, Minghui Zheng, Manling Li, Ruohan Zhang, Zhiwen Fan
     conference_short: CoRL
-    conference: arXiv preprint arXiv:2606.29201, 2026.
+    conference: CoRL, 2026.
     image: /assets/img/behavior-uncloning.png
     pdf: https://arxiv.org/abs/2606.29201
     page: https://behavior-uncloning.github.io/
